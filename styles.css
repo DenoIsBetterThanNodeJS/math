@@ -1,0 +1,26 @@
+html {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align:center;
+    background-color: black;
+    color:white;
+}
+
+a{
+    color:lightskyblue
+}
+
+h1 {
+    font-size:100px;
+}
+
+p {
+    font-size: 30px;
+}
+
+button {
+    border-radius: 25px;
+    font-size:50px;
+    background-color:black;
+    border-color:darkgray;
+    color:white;
+}
